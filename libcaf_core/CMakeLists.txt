@@ -153,6 +153,7 @@ caf_add_component(
     src/ipv6_address.cpp
     src/ipv6_endpoint.cpp
     src/ipv6_subnet.cpp
+    src/json_writer.cpp
     src/load_inspector.cpp
     src/local_actor.cpp
     src/logger.cpp
@@ -288,6 +289,7 @@ caf_add_component(
     ipv6_address
     ipv6_endpoint
     ipv6_subnet
+    json_writer
     load_inspector
     logger
     mailbox_element
