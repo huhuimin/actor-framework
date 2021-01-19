@@ -307,6 +307,7 @@ caf_add_component(
     mixin.requester
     mixin.sender
     mock_streaming_classes
+    mtl
     native_streaming_classes
     node_id
     optional
